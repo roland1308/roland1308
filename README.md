@@ -6,8 +6,8 @@ After a 480 hour course, I have achieved excellent results and good comments fro
 
 I am a person with a sense of humor, able to work in a team and listen / propose ideas to improve and simplify things. I am a dreamer, with imagination but capable of specifying solutions to briefly solve complex situations.
 
-- 🌱 I’m currently learning-
-- 🔭 I’m currently working on my first React Native project, My Movies DB
+- 🌱 I’m currently learning..as it never ends..
+- 🔭 Currently I'm working on my first React Native project: My Movies DB.
 
 <!--
 **roland1308/roland1308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
