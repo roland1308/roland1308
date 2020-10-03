@@ -2,12 +2,13 @@
 
 I am passionate about programming, I like to find the logic to solve problems and in a short time.
 
-After a 480 hour course, I have achieved excellent results and good comments from mentors: from scratch I acquired an excellent knowledge of HTML5, CSS3, JavaScript , Vue.js, React, Node.js, MongoDB, Express.js.
+After a 480 hours course, I have achieved excellent results and good comments from mentors: from scratch I acquired an excellent knowledge of HTML5, CSS3, JavaScript , Vue.js, React, Node.js, MongoDB, Express.js.
+
+After the course, I did 2 projects for myself: My Recipes (PWA in React to share "family's" recipes) and My Movies DB (React Native App for movies and series archive).
 
 I am a person with a sense of humor, able to work in a team and listen / propose ideas to improve and simplify things. I am a dreamer, with imagination but capable of specifying solutions to briefly solve complex situations.
 
 - 🌱 I’m currently learning..as it never ends..
-- 🔭 Currently I'm working on my first React Native project: My Movies DB.
 
 <!--
 **roland1308/roland1308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
