@@ -1,6 +1,8 @@
-### 👋 Hello! I'm Renato, a Junior Javascript Developer
+### 👋 Hello! I'm Renato, a Flutter / Javascript Developer
 
 I am passionate about programming, I like to find the logic to solve problems and in a short time.
+
+I have 2 years of working experience as Flutter developer.
 
 After a 480 hours course, I have achieved excellent results and good comments from mentors: from scratch I acquired an excellent knowledge of HTML5, CSS3, JavaScript , Vue.js, React, Node.js, MongoDB, Express.js.
 
